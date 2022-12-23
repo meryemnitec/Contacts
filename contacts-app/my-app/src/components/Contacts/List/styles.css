@@ -1,0 +1,39 @@
+#contanier {
+  width: 400px;
+  background-color: rgba(246, 241, 246, 0.364);
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.List {
+  margin: 15px 0;
+}
+.List > li {
+  background-color: rgb(243, 238, 242);
+  padding: 5px;
+  margin-bottom: 2px;
+}
+
+.btn-add{
+  background-color: rgba(246, 241, 246, 0.364);
+  border: 1px solid rgba(179, 166, 184, 0.392) ;
+ justify-content: center;
+  display: block flex;
+  padding: 5px;
+  width: 60px;
+  margin-left: 170px;
+  margin-top: 5px ;
+}
